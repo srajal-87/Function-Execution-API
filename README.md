@@ -1,4 +1,4 @@
-# LLM + RAG-Based Function Execution API - Setup and Execution Guide
+# LLM + RAG-Based Function Execution API 
 
 ## Prerequisites
 - Python 3.8+ 
