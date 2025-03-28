@@ -9,7 +9,7 @@
 
 ### 1. Clone the Project
 ```bash
-git clone https://github.com/yourusername/function-execution-api.git
+git clone https://github.com/srajal-87/Function-Execution-API.git
 cd function-execution-api
 ```
 
