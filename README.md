@@ -1,4 +1,35 @@
-# LLM + RAG-Based Function Execution API 
+# 🤖 LLM + RAG-Based Function Execution API
+
+## 🔍 Project Overview
+
+This project is an **LLM + RAG-powered Function Execution API** that interprets natural language commands (e.g., "Open Chrome", "Check system resources") and executes corresponding system-level tasks. It uses **FastAPI** for API development and integrates **Retrieval-Augmented Generation (RAG)** to dynamically retrieve function logic based on user queries.
+
+Ideal for automating everyday desktop tasks through simple language inputs.
+
+---
+
+## 🧠 Tech Stack
+
+- **Python 3.8+**
+- **FastAPI** – API framework
+- **Uvicorn** – ASGI server for running FastAPI
+- **LLM (GPT/OpenAI or similar)** – For understanding natural language
+- **Retrieval-Augmented Generation (RAG)** – For mapping input to relevant code
+- **Shell Commands / OS interaction** – For executing tasks
+
+---
+
+## 🚀 Features
+
+- ✅ Execute system-level functions with plain English
+- 🔍 RAG-based approach for retrieving and executing code logic
+- 🌐 API accessible via Swagger UI, cURL, or Python scripts
+- 🧩 Modular architecture for easy extension (add new functions easily)
+- 🛡️ Supports command validation and security practices
+
+---
+
+## 📁 Project Setup
 
 ## Prerequisites
 - Python 3.8+ 
