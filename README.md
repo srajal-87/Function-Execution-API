@@ -19,10 +19,8 @@ This API interprets everyday language instructions (like "open Chrome" or "check
 
 - **Python 3.8+** - Core programming language
 - **FastAPI** - Modern, high-performance web framework
-- **Pydantic** - Data validation and settings management
 - **RAG (Retrieval-Augmented Generation)** - For function mapping
 - **Vector Store** - Function indexing and retrieval
-- **Dynamic Code Generation** - Runtime function execution
 - **Uvicorn** - ASGI server for running the API
 
 ## 📁 Project Structure
